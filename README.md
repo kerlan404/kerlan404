@@ -1,10 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif)
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="300">
-</p>
 
 
 ## 🌐 Socials:
