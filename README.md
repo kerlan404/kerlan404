@@ -2,12 +2,7 @@
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
-![Robin GIF](https://media.tenor.com/14230868558252524096/robin-robin-hsr-boy-slow-down-hsr-honkai-star-rail.gif)
-
-<p align="center">
-  <img src="https://media.tenor.com/14230868558252524096/robin-robin-hsr-boy-slow-down-hsr-honkai-star-rail.gif" width="300"/>
-</p>
-
+https://media1.tenor.com/m/14230868558252524096/robin-robin-hsr-boy-slow-down-hsr-honkai-star-rail.gif
 
 
 ## 🌐 Socials:
