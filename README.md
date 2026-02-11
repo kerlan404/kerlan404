@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<br>
+I am still a vocational high school student (SMK)<br><br>
+
+👯 I’m looking to collaborate on<br>
+Simple coding projects & websites<br><br>
+
+🤝 I’m looking for help with<br>
+Learning web development & backend<br><br>
+
+🌱 I’m currently learning<br>
+HTML, CSS, JavaScript, and PHP<br><br>
+
+💬 Ask me about<br>
+Coding & web development<br><br>
+
+⚡ Fun fact<br>
+I'm an introvert, I like sleeping, coding, and I love Indomie,and I love hsr 🍜
+
 
 ![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif)
 
