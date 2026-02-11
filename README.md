@@ -18,11 +18,6 @@ Coding & web development<br><br>
 I'm an introvert, I like sleeping, coding, and I love Indomie,and I love hsr 🍜
 
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif)
-
-
-
-
 ![cool gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp5eG1zbjc3eTM3dGtrNXJ5cmRvZXAyYzl6a2dsazg2MGliNGphMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yAFNM9SH2uF2dYE7eI/giphy.gif)
 
 
@@ -43,8 +38,8 @@ I'm an introvert, I like sleeping, coding, and I love Indomie,and I love hsr �
 ![](https://nirzak-streak-stats.vercel.app/?user=kerlan404&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kerlan404&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
