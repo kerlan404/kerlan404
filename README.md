@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>
-I am still a vocational high school student (SMK)<br><br>
+I am still a vocational high school student RPL (SMK)<br><br>
 
 👯 I’m looking to collaborate on<br>
 Simple coding projects & websites<br><br>
@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, and PHP<br><br>
 Coding & web development<br><br>
 
 ⚡ Fun fact<br>
-I'm an introvert, I like sleeping, coding, and I love Indomie,and I love hsr 🍜
+I'm an introvert, I like sleeping, coding,i like hsr and I love Indomie,🍜 
 
 
 ![cool gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp5eG1zbjc3eTM3dGtrNXJ5cmRvZXAyYzl6a2dsazg2MGliNGphMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yAFNM9SH2uF2dYE7eI/giphy.gif)
