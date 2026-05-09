@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, and PHP<br><br>
 Coding & web development<br><br>
 
 ⚡ Fun fact<br>
-I'm an introvert, I like sleeping, coding,i like hsr and I love Indomie,🍜 
+i like sleeping 
 
 
 ## 🌐 Socials:
