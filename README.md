@@ -6,7 +6,7 @@ I am still a vocational high school student RPL (SMK)<br><br>
 Simple coding projects & websites<br><br>
 
 🤝 I’m looking for help with<br>
-Learning web development & backend<br><br>
+Learning web Fullstack<br><br>
 
 🌱 I’m currently learning<br>
 HTML, CSS, JavaScript, and PHP<br><br>
