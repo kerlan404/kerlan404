@@ -1,9 +1,9 @@
-[README (2).md](https://github.com/user-attachments/files/28137323/README.2.md)
+[README (3).md](https://github.com/user-attachments/files/28137349/README.3.md)
 # Hey, I'm Devick 👋
 
 SMK RPL student. I build things with code — mostly websites, sometimes broken ones.
 
-Currently grinding HTML, CSS, JavaScript, and PHP. Looking to collaborate on simple projects and learn fullstack along the way. If you want a coding buddy who will also fall asleep mid-session, I'm guy
+Currently grinding HTML, CSS, JavaScript, and PHP. Looking to collaborate on simple projects and learn fullstack along the way. If you want a coding buddy who will also fall asleep mid-session, I'm your guy.
 
 ---
 
@@ -39,11 +39,11 @@ Currently grinding HTML, CSS, JavaScript, and PHP. Looking to collaborate on sim
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)
 
 ![Streak](https://streak-stats.demolab.com/?user=kerlan404&theme=monokai&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
