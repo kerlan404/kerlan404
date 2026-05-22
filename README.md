@@ -39,11 +39,11 @@ Currently grinding HTML, CSS, JavaScript, and PHP. Looking to collaborate on sim
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)
+![Stats](https://github-README-stats.vercel.app/api?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kerlan404&theme=monokai&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=kerlan404&theme=monokai&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-README-stats.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
