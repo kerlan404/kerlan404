@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Devick!
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="300" alt="welcome gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="300" height="200" alt="Welcome gif" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 🎓 **SMK RPL Student** | 💻 **Code Enthusiast** | 🎨 **Web Developer in the Making**
 
-I build things with code — mostly websites, sometimes broken ones 😅 Currently grinding **HTML, CSS, JavaScript, and PHP**. Looking to collaborate on simple projects and learn fullstack along the way!
+I build things with code — mostly websites, sometimes broken ones 😅 Currently grinding **HTML, CSS, JavaScript, and PHP**. Looking to collaborate on simple projects and learn fullstack along the way. Let's create something awesome together! 🚀
 
 ---
 
@@ -65,7 +65,7 @@ I build things with code — mostly websites, sometimes broken ones 😅 Current
     <td align="center" width="50%">
       <div>
         <h3>💻 Stats Overview</h3>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&title_color=cdd6f4" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&title_color=cdd6f4&icon_color=ff6b6b&text_color=cdd6f4" alt="GitHub Stats" width="100%" />
       </div>
     </td>
     <td align="center" width="50%">
@@ -79,7 +79,7 @@ I build things with code — mostly websites, sometimes broken ones 😅 Current
     <td colspan="2" align="center">
       <div>
         <h3>📈 Top Languages</h3>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=1e1e2e&title_color=cdd6f4" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top Languages" width="100%" />
       </div>
     </td>
   </tr>
@@ -123,24 +123,24 @@ I build things with code — mostly websites, sometimes broken ones 😅 Current
     </tr>
     <tr>
       <td align="center" width="25%">
-        <h3>⚡ HSR Vibes ⚡</h3>
-        <img src="https://media.tenor.com/TnskSf0WcS4AAAAi/honkai-star-rail-hsr.gif" width="150" height="150" alt="honkai star rail error gif" />
-        <p><i>Me when there's an error 404</i> 😵</p>
+        <h3>⚡ Victory Time ⚡</h3>
+        <img src="https://media.tenor.com/TMGrRsxGRXkAAAAi/honkai-star-rail-hsr.gif" width="150" height="150" alt="honkai star rail victory gif" />
+        <p><i>Bug fixed successfully!</i> 🏆</p>
       </td>
       <td align="center" width="25%">
         <h3>🎮 Gaming Mode 🎮</h3>
-        <img src="https://media.tenor.com/W9ZHDC-kWa0AAAAi/loading-please-wait.gif" width="150" height="150" alt="loading gif" />
+        <img src="https://media1.tenor.com/m/AGoXfjqMiVUAAAAC/honest.gif" width="150" height="150" alt="honest reaction gif" />
         <p><i>Loading new features...</i> ⏳</p>
       </td>
       <td align="center" width="25%">
         <h3>💻 Code Mode 💻</h3>
-        <img src="https://media.tenor.com/Fz64rGkwC1MAAAAi/cat-keyboard.gif" width="150" height="150" alt="typing gif" />
+        <img src="https://media1.tenor.com/m/EK9ZSsvSh7YAAAAC/my-honest-reaction-jujutsu-kaisen.gif" width="150" height="150" alt="jujutsu kaisen reaction gif" />
         <p><i>Deep in the coding zone</i> 🖥️</p>
       </td>
       <td align="center" width="25%">
-        <h3>🎊 Victory Time 🎊</h3>
-        <img src="https://media.tenor.com/D5vgvRRkKx8AAAAi/victory-sign.gif" width="150" height="150" alt="victory gif" />
-        <p><i>Bug fixed successfully!</i> 🏆</p>
+        <h3>🎊 Victory Sign 🎊</h3>
+        <img src="https://media.tenor.com/D5vgvRRkKx8AAAAi/victory-sign.gif" width="150" height="150" alt="victory sign gif" />
+        <p><i>Ready to conquer code challenges!</i> 💎</p>
       </td>
     </tr>
   </table>
