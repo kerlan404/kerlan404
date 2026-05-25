@@ -58,35 +58,65 @@ I build things with code — mostly websites, sometimes broken ones 😅 Current
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kerlan404&theme=monokai&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <div>
+        <h3>💻 Stats Overview</h3>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="GitHub Stats" width="100%" />
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div>
+        <h3>🔥 Contribution Streak</h3>
+        <img src="https://streak-stats.demolab.com/?user=kerlan404&theme=monokai&hide_border=true&background=1e1e2e&ring=cdd6f4&fire=ff6b6b&currStreakNum=cdd6f4" alt="GitHub Streak" width="100%" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <div>
+        <h3>📈 Top Languages</h3>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top Languages" width="60%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💭 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" width="70%" />
 </div>
 
 ---
 
-## 🎮 Fun Vibes
+## 🎮 Fun Vibes & Activity
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/QPDB9rBM2XgAAAAd/yaoguang-yao-guang.gif" width="200" alt="yaoguang gif" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="200" alt="cool gif" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>✨ Yaoguang Vibes ✨</h3>
+        <img src="https://media1.tenor.com/m/QPDB9rBM2XgAAAAd/yaoguang-yao-guang.gif" width="200" height="200" alt="yaoguang gif" />
+        <p><i>When the code finally works</i> 🌟</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🎉 Cool Moment 🎉</h3>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="200" height="200" alt="cool gif" />
+        <p><i>Ready to build amazing things</i> 💪</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🚀 Let's Go! 🚀</h3>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="200" height="200" alt="coding gif" />
+        <p><i>Always learning & growing</i> 📚</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
