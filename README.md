@@ -100,20 +100,25 @@ I build things with code — mostly websites, sometimes broken ones 😅 Current
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <h3>✨ Yaoguang Vibes ✨</h3>
-        <img src="https://media1.tenor.com/m/QPDB9rBM2XgAAAAd/yaoguang-yao-guang.gif" width="200" height="200" alt="yaoguang gif" />
+        <img src="https://media1.tenor.com/m/QPDB9rBM2XgAAAAd/yaoguang-yao-guang.gif" width="150" height="150" alt="yaoguang gif" />
         <p><i>When the code finally works</i> 🌟</p>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <h3>🎉 Cool Moment 🎉</h3>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="200" height="200" alt="cool gif" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="150" height="150" alt="cool gif" />
         <p><i>Ready to build amazing things</i> 💪</p>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <h3>🚀 Let's Go! 🚀</h3>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="200" height="200" alt="coding gif" />
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="150" height="150" alt="coding gif" />
         <p><i>Always learning & growing</i> 📚</p>
+      </td>
+      <td align="center" width="25%">
+        <h3>🌀 Spinning Energy 🌀</h3>
+        <img src="https://media.tenor.com/JDIoEbvef5kAAAAi/kurukuru-herta.gif" width="150" height="150" alt="herta spinning gif" />
+        <p><i>Debugging mode activated</i> 💫</p>
       </td>
     </tr>
   </table>
