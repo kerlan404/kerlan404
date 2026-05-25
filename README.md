@@ -101,17 +101,17 @@ I build things with code — mostly websites, sometimes broken ones 😅 Current
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3>✨ Yaoguang Vibes ✨</h3>
+        <h3>✨ Idk ✨</h3>
         <img src="https://media1.tenor.com/m/QPDB9rBM2XgAAAAd/yaoguang-yao-guang.gif" width="150" height="150" alt="yaoguang gif" />
         <p><i>When the code finally works</i> 🌟</p>
       </td>
       <td align="center" width="33%">
-        <h3>🎉 Cool Moment 🎉</h3>
+        <h3>🎉 Cool 🎉</h3>
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="150" height="150" alt="cool moment gif" />
         <p><i>Ready to build amazing things</i> 💪</p>
       </td>
       <td align="center" width="33%">
-        <h3>🚀 Let's Go! 🚀</h3>
+        <h3> Let's Go! </h3>
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="150" height="150" alt="lets go gif" />
         <p><i>Always learning & growing</i> 📚</p>
       </td>
@@ -128,14 +128,14 @@ I build things with code — mostly websites, sometimes broken ones 😅 Current
         <p><i>Bug fixed successfully!</i> 🏆</p>
       </td>
       <td align="center" width="33%">
-        <h3>🎮 Gaming Mode 🎮</h3>
+        <h3> My honest Reaction </h3>
         <img src="https://media1.tenor.com/m/AGoXfjqMiVUAAAAC/honest.gif" width="150" height="150" alt="honest reaction gif" />
         <p><i>Loading new features...</i> ⏳</p>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        <h3>💻 Code Mode 💻</h3>
+        <h3>💻 Idk mode 💻</h3>
         <img src="https://media1.tenor.com/m/EK9ZSsvSh7YAAAAC/my-honest-reaction-jujutsu-kaisen.gif" width="150" height="150" alt="jujutsu kaisen reaction gif" />
         <p><i>Deep in the coding zone</i> 🖥️</p>
       </td>
