@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Devick!
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="300" alt="Welcome animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="300" alt="intro animation" />
   
   **Passionate Developer | Web Enthusiast | Always Learning** 🚀
 </div>
@@ -18,7 +18,7 @@
 
 </div>
 
-I'm a **web developer in the making**, currently grinding through **HTML, CSS, JavaScript, and PHP**. I love building things on the web and constantly challenge myself with new technologies. I believe in learning by doing and building real projects that solve actual problems.
+I'm a **web developer in the making**, currently grinding through **HTML, CSS, JavaScript, and PHP**. I love building things on the web and constantly challenge myself with new technologies. I believe in writing clean code and creating experiences that matter.
 
 **What drives me:**
 - 🔧 Building clean, functional code
@@ -89,17 +89,17 @@ I'm a **web developer in the making**, currently grinding through **HTML, CSS, J
   <tr>
     <td align="center" width="50%">
       <h3>💻 GitHub Stats</h3>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&title_color=ffffff&text_color=cdd6f4&icon_color=ff6b6b" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&title_color=ff6b6b&text_color=cdd6f4&icon_color=ff6b6b" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <h3>🔥 Contribution Streak</h3>
-      <img src="https://streak-stats.demolab.com/?user=kerlan404&theme=monokai&hide_border=true&background=1e1e2e&ring=cdd6f4&fire=ff6b6b&currStreakNum=cdd6f4" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerlan404&theme=monokai&hide_border=true&background=1e1e2e&ring=ff6b6b&fire=ff6b6b&currStreakNum=cdd6f4&sideNums=cdd6f4" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>📈 Top Languages</h3>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=1e1e2e&title_color=ffffff&text_color=cdd6f4" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=1e1e2e&title_color=ff6b6b&text_color=cdd6f4" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -126,12 +126,12 @@ I'm a **web developer in the making**, currently grinding through **HTML, CSS, J
       </td>
       <td align="center" width="33%">
         <h3>💪 Ready to Code 💪</h3>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="150" height="150" alt="pumped up" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="150" height="150" alt="ready to code" />
         <p><i>Ready to build amazing things</i> 💪</p>
       </td>
       <td align="center" width="33%">
         <h3>🚀 Let's Go! 🚀</h3>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="150" height="150" alt="launch" />
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="150" height="150" alt="lets go" />
         <p><i>Always learning & growing</i> 📚</p>
       </td>
     </tr>
