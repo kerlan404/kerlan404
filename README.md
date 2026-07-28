@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Devick! !
+# 👋 Hey, I'm Devick!
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="300" alt="intro animation" />
