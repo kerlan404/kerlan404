@@ -1,168 +1,108 @@
-# 👋 Hey, I'm Devick! !
+# 🎮📸 Halo — Aku Devick, Game Dev & Photographer (Reborn)
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="300" alt="intro animation" />
+  <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="180" alt="profile" />
   
-  **Passionate Developer | Web Enthusiast | Always Learning** 🚀
+  **Level Up: Web Creator • Game Lover • Visual Storyteller**
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Tentang Aku (New Identity)
+
+Halo! Aku Devick — sekarang aku menata ulang portofolio sebagai pengembang web yang juga gemar fotografi dan game design. Di sini aku menggabungkan dua dunia: estetika visual dari fotografi dan logika interaktif dari game.
+
+- Role: Full-Stack Web Developer & Visual Creator
+- Status: SMK RPL • On a quest to master modern web stack
+- Motto: "Shoot. Build. Play. Repeat."
+
+---
+
+## 🕹️ Theme: Game + Photography
+
+Bayangkan portofolioku seperti game indie: setiap project adalah "level" dan setiap foto adalah "screenshot" yang menyimpan cerita.
+
+- Campaigns (Projects): Website, mini-games, dan eksperimen visual
+- Arsenal (Tools): bahasa & framework untuk membangun dunia interaktif
+- Portfolio Gallery: galeri foto dan karya visual (akan di-link di project)
+
+---
+
+## 🧰 Loadout — Tech Stack
 
 <div align="center">
-
-| 📚 Education | 💻 Focus | 🎨 Interest |
-|---|---|---|
-| **SMK RPL Student** | Full-Stack Development | Web Design & UI/UX |
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="php" />
 </div>
 
-I'm a **web developer in the making**, currently grinding through **HTML, CSS, JavaScript, and PHP**. I love building things on the web and constantly challenge myself with new technologies. I believe in writing clean code and creating experiences that matter.
-
-**What drives me:**
-- 🔧 Building clean, functional code
-- 🎨 Creating beautiful user experiences
-- 📚 Continuous learning and improvement
-- 🤝 Collaborating with other developers
+Keterangan singkat:
+- HTML / CSS / JS — dasar untuk semua "level"
+- React & Next.js — membangun antarmuka dan routing modern
+- Node.js & Express — backend ringan untuk API & game logic
+- PHP — legacy & server-side scripting
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 AI Tools & Dev Tools
 
-### 🎨 Frontend
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-111827?logo=anthropic&style=for-the-badge" alt="Claude" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Gemini-Google-0F9D58?logo=google&style=for-the-badge" alt="Gemini" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-10B981?logo=openai&style=for-the-badge" alt="ChatGPT" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Git-Git-skyblue?logo=git&style=for-the-badge" alt="Git" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&style=for-the-badge" alt="GitHub" />
 </div>
 
-### 🔧 Backend & Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="chrome" />
-</div>
+AI dan tooling membantu mempercepat prototyping: dari ide permainan hingga pengolahan gambar.
 
 ---
 
-## 📚 Currently Learning
+## 📷 Photography — Visual Portfolio (Coming Soon)
 
-```
-🎓 Learning Path
-├── 🚀 Full-Stack Development (Frontend + Backend Integration)
-├── 💾 Database Design & SQL
-├── 🎯 Modern Web Frameworks
-├── 📱 Responsive & Mobile-First Design
-├── 🔐 Web Security Best Practices
-└── 🚢 Deployment & DevOps Basics
-```
+Aku suka menangkap momen: street photography, portrait, dan landscape. Di repositori ini akan ada folder /photos yang menampung sample karya, bersama dengan deskripsi teknik yang dipakai.
+
+Tips singkat:
+- Golden hour > lighting importante
+- Komposisi: leading lines & framing
+- Edit: minimal, biar cerita tetap natural
 
 ---
 
-## 🎯 What I'm Looking For
+## 🚀 Current Quest
 
-<div align="center">
-
-👥 **Collaboration** | 🤝 **Coding Partners** | 💡 **Feedback** | 📖 **Mentorship**
-
-</div>
-
-- 💬 I'm open to collaborate on **beginner-friendly to intermediate projects**
-- 🎓 Looking for experienced developers who can mentor me
-- 💪 Ready to tackle challenging problems and learn from mistakes
-- 🌱 Building a portfolio with real-world projects
+- Membuat small web game menggunakan React + Canvas
+- Menyusun gallery foto responsive dengan Next.js
+- Belajar optimisasi performa dan SEO
 
 ---
 
-## 📊 GitHub Analytics
+## 🤝 Ajak Kolaborasi
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 GitHub Stats</h3>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&title_color=ff6b6b&text_color=cdd6f4&icon_color=ff6b6b" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🔥 Contribution Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerlan404&theme=monokai&hide_border=true&background=1e1e2e&ring=ff6b6b&fire=ff6b6b&currStreakNum=cdd6f4&sideNums=cdd6f4" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>📈 Top Languages</h3>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerlan404&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=1e1e2e&title_color=ff6b6b&text_color=cdd6f4" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+Butuh partner untuk project game 2D, UI/UX, atau sesi foto? DM aku di Instagram atau buka issue di repo ini — aku senang bekerja bareng.
 
 ---
 
-## 💭 Daily Inspiration
+## 🔗 Connect
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote of the Day" width="70%" />
-</div>
-
----
-
-## 🌟 Dev Moments
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>✨ Eureka! ✨</h3>
-        <img src="https://media1.tenor.com/m/QPDB9rBM2XgAAAAd/yaoguang-yao-guang.gif" width="150" height="150" alt="lightbulb moment" />
-        <p><i>When the code finally works</i> 🌟</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>💪 Ready to Code 💪</h3>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmZ0aXlmN2x1OW8xeXltMGtnZHlpb2V2dzQ3aXE1dmowM2FhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hg4yxDefjPPdJBu47C/giphy.gif" width="150" height="150" alt="ready to code" />
-        <p><i>Ready to build amazing things</i> 💪</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🚀 Let's Go! 🚀</h3>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liaXJwYmxsajBuNWloM216cnVvMzhmamUycjVkM3ZleHl4c3BqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY9eBmaqrmoQU3HTq5/giphy.gif" width="150" height="150" alt="lets go" />
-        <p><i>Always learning & growing</i> 📚</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🌀 Debug Mode 🌀</h3>
-        <img src="https://media.tenor.com/JDIoEbvef5kAAAAi/kurukuru-herta.gif" width="150" height="150" alt="debugging" />
-        <p><i>Hunting down those pesky bugs</i> 🐛</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🏆 Victory! 🏆</h3>
-        <img src="https://media.tenor.com/TMGrRsxGRXkAAAAi/honkai-star-rail-hsr.gif" width="150" height="150" alt="victory" />
-        <p><i>Bug crushed successfully!</i> ✅</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>⏳ Coffee Break ⏳</h3>
-        <img src="https://media1.tenor.com/m/AGoXfjqMiVUAAAAC/honest.gif" width="150" height="150" alt="coffee break" />
-        <p><i>Refueling with coffee & thinking time</i> ☕</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/devick404)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@naviaggtzy)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ryn17938@gmail.com)
 
 </div>
@@ -170,13 +110,6 @@ I'm a **web developer in the making**, currently grinding through **HTML, CSS, J
 ---
 
 <div align="center">
-
-### 🎉 Thanks for stopping by!
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="waving animation" />
-
-**Feel free to explore my projects, drop a ⭐ if you find something interesting, and let's connect!**
-
-*Made with ❤️ and fueled by caffeine ☕*
-
+  <p>Terima kasih sudah mampir — mari berkarya: <i>Build. Shoot. Play.</i></p>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="wave" />
 </div>
